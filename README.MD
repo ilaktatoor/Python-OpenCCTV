@@ -11,3 +11,14 @@ the idea is to create a web app for a webcam cctv close circuti, with a login pa
 - [ ] add webcam showing page
 - [ ] login db
 - [ ] docker deploy
+<br>
+<br>
+<br>
+<br>
+
+How to use the python venv
+  - enter to the Project folder 
+  - execute: source venv/bin/activate
+  - to exit venv: deactivate
+
+
