@@ -17,7 +17,9 @@ the idea is to create a web app for a webcam cctv close circuti, with a login pa
 <br>
 
 How to use the python venv
-  - enter to the Project folder 
+  - enter to the Project folder
+  - execute: virtualenv venv
+  - execute: pip install -r requirements.txt
   - execute: source venv/bin/activate
   - to exit venv: deactivate
 
